@@ -3,5 +3,10 @@ public class GitConcepts{
 	public static void main(string[] args)
 	{
 		sout("git concepts");
+		printdUCK();
+	}
+	public static void printdUCK()
+	{
+	SOUT("print duck");
 	}
 }
